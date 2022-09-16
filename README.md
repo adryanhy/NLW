@@ -5,7 +5,7 @@
 Projeto construído no evento
 Next Level Week da Rockseat.
 
-![preview](./.github/preview.png)
+![preview](./assets/preview.png)
 
 ##  💻 Tecnologias
 - HTML
